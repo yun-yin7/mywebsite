@@ -54,7 +54,7 @@ params:
 #      - icon: fa-github
 #        label: GitHub
 #        url: https://www.github.com
-      - icon: fa-linkedin
+git       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/yun-yin-bb5644209/
   image: ''
@@ -81,9 +81,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: yunyin.jpg
+        subtitle: A short Biography
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
